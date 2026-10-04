@@ -6,11 +6,11 @@ I enjoy system-level programming, technical problem solving, and working with so
 
 ## Technical Focus
 
-- **C / C++** – system-level and low-level programming
-- **Python** – sensor data processing, tooling and integration
-- **Linux** – processes, system calls and kernel modules
-- **Embedded Systems** – microcontrollers, sensors and hardware interfaces
-- **Real-Time Systems** – scheduling, synchronization and timing
+- **C / C++**: system-level and low-level programming
+- **Python**: sensor data processing, tooling and integration
+- **Linux**: processes, system calls and kernel modules
+- **Embedded Systems**: microcontrollers, sensors and hardware interfaces
+- **Real-Time Systems**: scheduling, synchronization and timing
 
 ## Selected Projects
 
