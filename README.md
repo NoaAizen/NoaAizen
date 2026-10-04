@@ -35,9 +35,9 @@ A C# / WPF application with a layered PL/BL/DAL architecture, XML persistence, b
 
 Linux kernel modules in C, progressing from a basic loadable module to Netfilter hooks for IPv4 packet inspection and a per-source-IP rate limiter using a kernel hash table and `jiffies`-based time windows. Developed with a partner.
 
-### [Smart Medication Box](https://github.com/NoaAizen/smart-medication-box)
+### [Java Ray Tracer](https://github.com/NoaAizen/Java-Ray-Tracer)
 
-An Arduino prototype that detects objects inside a box with an HC-SR04 ultrasonic sensor and drives an LED and buzzer alert below a distance threshold.
+A Java 3D ray tracer implementing geometry intersections, Phong lighting, reflection and refraction, soft shadows, adaptive supersampling and multithreaded rendering, with JUnit tests. Developed collaboratively with Noga Jacobs.
 
 ## Technologies
 
