@@ -14,7 +14,7 @@ I enjoy system-level programming, technical problem solving, and working with so
 
 ## Selected Projects
 
-### [ValiSight](https://github.com/NoaAizen/ValiSight)
+### [VailSight](https://github.com/NoaAizen/VailSight)
 
 A team-developed multi-sensor perception and navigation system combining radar, IMU, thermal and visible camera data for real-time sensing, sensor fusion, multi-sensor tracking and navigation, running across OpenMV N6 and NVIDIA Jetson components.
 My work focused on radar and IMU integration, radar calibration, sensor synchronization and timestamp handling, and pose initialization for the navigation flow.
